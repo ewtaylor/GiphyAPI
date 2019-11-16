@@ -1,6 +1,6 @@
 $( document ).ready(function() {
     // An array of topics, new topics will be pushed into this array;
-    var topics = ["Paris", "London", "Barcelona", "Prague", "Moscow", "Santorini", "Vienna", "Rome", "Berlin", "Milan","Istanbul", "Banff", "Florence"];
+    var topics = ["Paris", "London", "Barcelona", "Prague", "Moscow", "Santorini", "Vienna", "Rome", "Berlin", "Athens","Istanbul", "Banff", "Reykjavik"];
   
     // Function that displays all gif buttons
     function displayGifButtons(){
