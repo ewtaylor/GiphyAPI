@@ -1,0 +1,51 @@
+body{
+    background-color: skyblue;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+* {
+	box-sizing: border-box;
+}
+img { 
+    height: 150px;
+    width: 150px;
+}
+.btn {
+    /* spaces between each button*/
+    margin: 3px;
+    background-color: black;
+    border-color: white;
+}
+.gifDiv{
+    /* making the images go in one line */
+    float: left;
+    margin: 3px;
+}
+.container {
+	background-color: skyblue;
+	opacity: 0.8;
+	padding: 20px;
+}
+.jumbotron {
+    background: url("../images/travel.jpg");
+	background-size: 125%;
+    background-repeat: no-repeat;
+    
+    
+}
+.jumbotron .h1, .jumbotron h1 {
+    text-align: center;
+    font-size: 80px;
+    background-color: skyblue;
+}
+#copyright{
+	font-size: 14px;
+}
+div#footer {
+	clear: both;
+	margin-top: 40px;
+	position: center;
+	bottom: 0;
+	left: 0;
+	text-align: center;
+}
