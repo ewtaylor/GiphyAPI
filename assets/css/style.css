@@ -28,10 +28,10 @@ img {
 }
 .jumbotron {
     background: url("../images/travel.jpg");
-	background-size: 125%;
+    background-size: 125%;
     background-repeat: no-repeat;
     
-    
+       
 }
 .jumbotron .h1, .jumbotron h1 {
     text-align: center;
